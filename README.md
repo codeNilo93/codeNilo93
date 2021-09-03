@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Danilo, I studied Business Computer Science and now
+- 👋 Hi, I’m Danilo, I studied Business Computer Science cooperatively and now embark on a journey through the
 - 
-- 👀 I’m interested in Software Development & Data Analytics
-- 
-- 🌱 I’m currently learning pretty much everything related to web development and python
-- 
-- 💞️ I’m looking to collaborate on beginner-level projects to gain more experience
+- 👀🌱 I’m interested in completing MERN - Stack projects as well as learning more about Python. 
 
 <!---
 codeNilo93/codeNilo93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
