@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danilo, I studied Business Computer Science cooperatively and now embark on a journey through the
-     World of Web Development
+      World of Web Development
      
 - 👀🌱 I’m interested in completing MERN - Stack projects as well as learning more about Python. 
 
